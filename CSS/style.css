@@ -136,7 +136,7 @@ body {
 .part2,
 .part3,
 .part5 {
-    padding: 120px;
+    padding: 60px 0 0;
     text-align: center;
     width: 100%;
 
@@ -554,7 +554,7 @@ body {
 .part4 {
     background-color: rgba(0, 0, 0, 0.7);
     padding: 60px;
-    height: 400px;
+    height: 309px;
 }
 
 .part4 .part4_container {
